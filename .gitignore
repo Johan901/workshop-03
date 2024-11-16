@@ -1,0 +1,11 @@
+Connection/__pycache__
+
+Docker/secrets
+Docker/pgadmin_data
+Docker/postgres_data
+Docker/secrets2
+
+.conf
+
+Kafka/venv
+Kafka/.env

@@ -1,0 +1,6 @@
+confluent_kafka
+pandas
+joblib
+sqlalchemy
+python-decouple
+psycopg2-binary
